@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full Stack Web Projects   
 - 💬 Ask me anything about Frontend, React or Web Development  
 - 📫 How to reach me: shaheerahmed.0206@gmail.com  
-- 😄 Portfolio: https://portfolio-website-shaheer.vercel.app/  
+- 😄 Portfolio: https://shaheer-portfolio-ten.vercel.app/  
 - ⚡ Fun fact: I love building things that solve real-world problems  
 
 ---
