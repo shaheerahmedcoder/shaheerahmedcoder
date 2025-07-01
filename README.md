@@ -1,39 +1,108 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
+<h3 align="center">A passionate self-taught full stack developer</h3>
 
-- 🔭 I’m currently working on Full Stack Web Projects   
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+
+- 🔭 I’m currently working on Full Stack Web Projects  
 - 💬 Ask me anything about Frontend, React or Web Development  
 - 📫 How to reach me: shaheerahmed.0206@gmail.com  
-- 😄 Portfolio: https://shaheer-portfolio-ten.vercel.app/  
+- 😄 Portfolio: [shaheer-portfolio-ten.vercel.app](https://shaheer-portfolio-ten.vercel.app/)  
 - ⚡ Fun fact: I love building things that solve real-world problems  
 
 ---
 
-### 👥 Connect with me:
+## 🤝🏻 &nbsp;Connect with Me
 
-<div id="badges">
+<p align="center">
   <a href="https://github.com/shaheerahmedcoder">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shaheer-ahmed-892776321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Shaheer%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:shaheerahmed.0206@gmail.com">
+    <img src="https://img.shields.io/badge/-shaheerahmed.0206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💻 Languages and Tools:
+<h2><i>💻 Tech Stack</i></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,cpp,c,python,tailwind,bootstrap,firebase,vercel,netlify,git&perline=6)](https://skillicons.dev)
+<table width="100%">
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
+    </td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaheerahmedcoder" alt="Shaheer Ahmed" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheerahmedcoder&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerahmedcoder&layout=compact&theme=tokyonight" height="180px"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheerahmedcoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerahmedcoder&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
----
-
-⭐️ From [shaheerahmedcoder](https://github.com/shaheerahmedcoder)
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheerahmedcoder&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
