@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
-<h3 align="center">A passionate self-taught full stack developer</h3>
+<h3 align="center">A passionate self-taught Frontend Engineer</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
@@ -24,7 +24,7 @@
 
 ---
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>💻 Tech SKills</i></h2>
 
 <table width="100%">
 <tr>
