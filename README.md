@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
-<h3 align="center">A passionate self-taught Frontend Engineer</h3>
+<h3 align="center">A passionate self-taught full stack developer</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on Full Stack Web Projects  
 - 💬 Ask me anything about Frontend, React or Web Development  
 - 📫 How to reach me: shaheerahmed.0206@gmail.com  
-- 😄 Portfolio: [https://portfolioshaheer.netlify.app/](https://portfolioshaheer.netlify.app/)  
+- 😄 Portfolio: [portfolioshaheer.netlify.app](https://portfolioshaheer.netlify.app/)  
 - ⚡ Fun fact: I love building things that solve real-world problems  
 
 ---
@@ -14,6 +14,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  <a href="https://github.com/shaheerahmedcoder">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/shaheer-ahmed-892776321/">
     <img src="https://img.shields.io/badge/-Shaheer%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
@@ -74,9 +77,6 @@
     <td align='center'>
         <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="60">
     </td>
-  
-
-<tr>
     <td align='center'>
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
