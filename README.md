@@ -14,14 +14,11 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://github.com/shaheerahmedcoder">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="mailto:shaheerahmed.0206@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shaheer-ahmed-892776321/">
-    <img src="https://img.shields.io/badge/-Shaheer%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shaheerahmed.0206@gmail.com">
-    <img src="https://img.shields.io/badge/-shaheerahmed.0206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
