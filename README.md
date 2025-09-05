@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full Stack Web Projects  
 - 💬 Ask me anything about Frontend, React or Web Development  
 - 📫 How to reach me: shaheerahmed.0206@gmail.com  
-- 😄 Portfolio: [portfolioshaheer.netlify.app](https://portfolioshaheer.netlify.app/)  
+- 😄 Portfolio: [(https://shaheer-three.vercel.app/)](https://shaheer-three.vercel.app/))  
 - ⚡ Fun fact: I love building things that solve real-world problems  
 
 ---
