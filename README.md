@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
-<h3 align="center">A passionate self-taught Full Stack Engineer</h3>
+<h3 align="center">Currently working with Private Repos.... :)</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on Full Stack Web Projects  
-- 💬 Ask me anything about Frontend, React or Web Development  
+- 🔭 I’m currently working on AI Agents and Full Stack Projects  
 - 📫 How to reach me: shaheerahmed.0206@gmail.com  
-- 😄 Portfolio: [(https://shaheerahmed.vercel.app/)/)](https://shaheerahmed.vercel.app/) 
+- 😄 Portfolio: [(https://shaheerahmed.vercel.app/)/)](https://shaheerahmed.vercel.app/)  (GIVING IT A UPDATE SOON! :) )
 - ⚡ Fun fact: I love building things that solve real-world problems  
 
 ---
